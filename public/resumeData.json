@@ -4,7 +4,7 @@
     "occupation": "Aspiring Software Developer",
     "description": "Im focused in Python developement hoping to create better software and systems for the companies that contribute useful technologies for the world. ",
     "image": "WFHP7623.JPG",
-    "bio": "I watch tons of movies, I play action & adventure videogames, and I love to experience new adventures with my girlfriend. I'm also currently saving to invest in my real-estate deal. \nFrom basic puzzles to advanced math, I have always had an immense fascination to solve problems. When I was introduced to computer science in high school, it seemed natural, and I loved it! Today I feel an obligation to imaginatively contribute technology that world can use.",
+    "bio": "I watch tons of movies, I play action & adventure videogames, and I love to experience new adventures with my girlfriend. I'm also currently saving to invest in my real-estate deal. \nFrom basic puzzles to advanced math, I have always had an immense fascination to solve problems. When I was introduced to computer science in high school, it seemed natural, and I loved it! Today I feel an obligation to imaginatively contribute technology that the world can use.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "D.Thomas0729@gmail.com",
     "phone": "+1 810 845 2577",
@@ -12,8 +12,8 @@
       "city": "Atlanta",
       "state": "GA"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1_Up2mRUpguX7oDVaMwZ_DGNlqle-_1xH/view?usp=sharing",
+    "website": "https://dthomasdeveloper.netlify.app/",
+    "resumedownload": "https://drive.google.com/file/d/1FARvq1UZs65vcbXekic0wBasDM_07tv2/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -27,7 +27,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/Nazariy995",
+        "url": "https://github.com/Dthomas0729",
         "className": "fa fa-github"
       }
     ]
@@ -42,13 +42,13 @@
         "company": "SLICC Tech",
         "title": "Founder / Software Developer",
         "years": "March 2020 - Present",
-        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
+        "description": "• Develop automation processes for receiving, storing, testing, and sending various types of information. • Analyze user needs and then design, test, and develop project software to meet those needs. • Compiling and assessing user feedback to improve software performance and reliability."
       },
       {
         "company": "Taggabox",
         "title": "Operations / Developer",
         "years": "Jan 2019 - Present",
-        "description": "Helping businesses showing their best selves to clients."
+        "description": "• Supervise the activities of workers engaged in receiving, storing, testing, and shipping products or materials. • Plan, develop, and implement warehouse safety programs and activities. • Develop and implement efficient plans for storage and distribution activities that emphasizes technological solutions for sustainability as well as scalability."
       }
     ],
     "skills": [
