@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Dominique Thomas",
-    "occupation": "Aspiring Software Developer",
-    "description": "Im focused in Python developement hoping to create better software and systems for the companies that contribute useful technologies for the world. ",
-    "image": "WFHP7623.JPG",
-    "bio": "I watch tons of movies, I play action & adventure videogames, and I love to experience new adventures with my girlfriend. I'm also currently saving to invest in my real-estate deal. \nFrom basic puzzles to advanced math, I have always had an immense fascination to solve problems. When I was introduced to computer science in high school, it seemed natural, and I loved it! Today I feel an obligation to imaginatively contribute technology that the world can use.",
+    "occupation": "Software Engineer and Contractor",
+    "description": "Today, I'm focused on Python development creating better software and systems for companies in need. I believe in honesty, clean code, and always putting in 100%",
+    "image": "IMG_E1355.JPG",
+    "bio": "I watch tons of movies, I play action & adventure videogames, and I love to experience new adventures. I'm also currently saving to purchase my first property. \nFrom basic puzzles to advanced math, I have always had an immense fascination to solve problems. When I was introduced to computer science in high school, it seemed natural, and I loved it! Today I feel an obligation to imaginatively contribute technology that the world can use.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "D.Thomas0729@gmail.com",
     "phone": "+1 810 845 2577",
@@ -13,7 +13,7 @@
       "state": "GA"
     },
     "website": "https://dthomasdeveloper.netlify.app/",
-    "resumedownload": "https://drive.google.com/file/d/1FARvq1UZs65vcbXekic0wBasDM_07tv2/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1zoS08wkovyAVucsRPOfXchutXX4mYwPy/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -22,7 +22,7 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/nazdumanskyy/",
+        "url": "https://www.instagram.com/dthomasprogrammer/",
         "className": "fa fa-instagram"
       },
       {
@@ -73,28 +73,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Client Rental Order Manager",
+        "title": "File Manager",
         "category": "Django database built with Python",
         "image": "home-page.jpg",
-        "url": ""
+        "url": "https://github.com/Dthomas0729/File-Manager"
       },
       {
         "title": "Amazon Clone with REACTJS",
         "category": "Amazon Clone",
         "image": "robinhood.jpg",
-        "url": ""
+        "url": "https://github.com/Dthomas0729/React-JS-Amazon-Clone"
       },
       {
         "title": "Google Calendar Update",
         "category": "Automation script using Python",
         "image": "order-results.jpg",
-        "url": ""
+        "url": "https://github.com/Dthomas0729/Google-Calendar-Update-Script"
       },
       {
         "title": "Amazing Movies! Hangman Edition",
         "category": "Python game script played interacting with Windows CMD",
         "image": "entry-hangman.jpg",
-        "url": ""
+        "url": "https://github.com/Dthomas0729/HANGMAN---Amazing-Movies"
       }
     ]
   },
