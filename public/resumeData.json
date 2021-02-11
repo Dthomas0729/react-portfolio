@@ -34,6 +34,7 @@
   },
   "resume": {
     "skillmessage": "",
+    "skilltree": "new-skill-tree.png",
     "education": [
       
     ],
@@ -81,7 +82,7 @@
       {
         "title": "Amazon Clone with REACTJS",
         "category": "Amazon Clone",
-        "image": "robinhood.jpg",
+        "image": "amzn-clone-home.png",
         "url": "https://github.com/Dthomas0729/React-JS-Amazon-Clone"
       },
       {
@@ -105,8 +106,8 @@
         "user": "Albert Einstein"
       },
       {
-        "text": "Think left and think right\nand think low and think high.\nOh, the thinks you can think up\nif you only try!",
-        "user": "Dr. Suess"
+        "text": "First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.",
+        "user": "Napoleon Hill"
       }
     ]
   }
